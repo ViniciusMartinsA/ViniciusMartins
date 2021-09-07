@@ -21,8 +21,8 @@
    <a href = "vinimartinsalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
- <img align="right" alt="vini_gif" src="https://media.discordapp.net/attachments/677369291753914395/884822564248113162/c5d46b9096a87678be29db32793dac2f.gif">
-  ##
+  ## <img align="right" alt="vini_gif" src="https://media.discordapp.net/attachments/677369291753914395/884822564248113162/c5d46b9096a87678be29db32793dac2f.gif">
+
 
   ![Snake animation](https://github.com/ViniciusMartinsA/viniciusmartins/blob/output/github-contribution-grid-snake.svg)
 
