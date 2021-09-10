@@ -2,7 +2,7 @@
 
 🌱 -Tenho 21 anos
 
-👨🏾‍💻 - Atualmente trabalho no Setor administrativo
+👨🏾‍💻 - Atualmente trabalho no Setor administrativo no CD 
 
 👨🏾‍🎓 - Cursando Gestão Tecnologia da Informação
 
